@@ -14,7 +14,7 @@ function getPrize( expectedScore, realScore ){
 		}
 	}
 	
-	console.log( 'Ставка на счёт '+ expectedScore.join(':') + ' (реальный: ' + realScore .join(':') + '). Приз: ' + prize);
+	console.log( 'РЎС‚Р°РІРєР° РЅР° СЃС‡С‘С‚ '+ expectedScore.join(':') + ' (СЂРµР°Р»СЊРЅС‹Р№: ' + realScore .join(':') + '). РџСЂРёР·: ' + prize);
 	return prize;
 }
 
